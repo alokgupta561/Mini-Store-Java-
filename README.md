@@ -1,3 +1,5 @@
+ Mini-Store-Java :– concise and professional, shows it’s a mini-store program in Java.
+
 Overview :
 This project is a Java console application that simulates a shopping system for a multi-category store. Users can browse and purchase items from categories such as Grocery, Snacks & Drinks, Beauty & Personal Care, Electronics, and Sports Items. The program calculates the total bill in real-time as the user selects items and enters quantities.
 
